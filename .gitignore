@@ -2,3 +2,6 @@
 .venv/
 __pycache__/
 *.pyc
+
+# Intermediate work of agents and skills (lpaladini1980/paladia#152)
+tmp/
